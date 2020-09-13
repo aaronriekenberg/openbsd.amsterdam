@@ -1,0 +1,4 @@
+# pfstat
+*       *       *       *       *       /usr/local/bin/pfstat -q -d /var/db/pfstat.db
+*/5     *       *       *       *       /usr/local/bin/pfstat -p -d /var/db/pfstat.db
+0       4       *       *       *       /usr/local/bin/pfstat -t 7 -d /var/db/pfstat.db
