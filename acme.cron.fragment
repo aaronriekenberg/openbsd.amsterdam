@@ -1,0 +1,2 @@
+# acme
+0       0       *       *       *       acme-client aaronr.digital && rcctl reload httpd
