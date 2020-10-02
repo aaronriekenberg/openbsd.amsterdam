@@ -1,2 +1,2 @@
 # acme
-0       0       *       *       *       acme-client -v aaronr.digital && rcctl reload httpd
+0       0       *       *       *       acme-client -v aaronr.digital && rcctl reload relayd

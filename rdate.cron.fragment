@@ -1,0 +1,2 @@
+# rdate
+0       23      *       *       *       /usr/sbin/rdate -s time.cloudflare.com
